@@ -1,0 +1,22 @@
+{
+    "pizza": {
+        "id":1,
+        "nome":"Calabresa",
+        "preco":50.00,
+        "capa":"https://prezunic.vtexassets.com/arquivos/ids/179719-800-auto?v=638368810383670000&width=800&height=auto&aspect=true"
+        },
+        "ingredientes": [
+               {
+                   "id": 1,
+                   "nome": "massa crocante"
+               },
+               {
+                   "id": 2,
+                   "nome": "molho tomate"
+               },
+               {
+                   "id": 3,
+                   "nome": "cebola"
+               }
+           ]	
+   }
